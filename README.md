@@ -1,8 +1,6 @@
-# DanmakuPlayer
-先挖个坑，名字还没想好，打算做个kikoplay的android局域网前端
+# neoKikoWebPlayer
+一个新的 KikoPlay 局域网服务网页端实现
 
-### Todo
-- [ ] 实现ijkplayer与libmpv双内核切换
-- [ ] ass字幕渲染效果正常
-- [ ] 界面美化
-- [ ] 自动检测局域网内kikoplay服务
+## 鸣谢
+[KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay)
+[zhw2590582/ArtPlayer](https://github.com/zhw2590582/ArtPlayer)
